@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.5",
+        "php-ai/php-ml": "^0.8.0",
+        "nesbot/carbon": "^2.30"
+    }
+}

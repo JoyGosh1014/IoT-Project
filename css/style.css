@@ -1,0 +1,23 @@
+@import url(bootstrap.min.css);
+@import url(bootstrap-theme.min.css);
+@import url(all.min.css);
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lobster', cursive;
+}
+
+body{
+    padding-top: 70px;
+}
+
+/*Style for Carousel*/
+#my-carousel .carousel-caption{
+    bottom: 145px;
+}
+hr{
+	border: 1px solid gray;
+}
+
